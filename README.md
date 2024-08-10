@@ -1,8 +1,9 @@
 # Data Scientist
 
-#### Machine Learning, Deep Learning, AI, CNNs</li>
-#### Technologies: TensorFlow, Keras, PyTorch, ServiceNow, R Studio, GitHub, MongoDB, PowerBI</li>
-#### Languages: Python, Java, C++, SQL, HTML, C#</li>
+### Skills
+#### Machine Learning: Deep Learning, AI, CNNs
+#### Technologies: TensorFlow, Keras, PyTorch, ServiceNow, R Studio, GitHub, MongoDB, PowerBI
+#### Languages: Python, Java, C++, SQL, HTML, C#
 
 
 ## Education		        		
