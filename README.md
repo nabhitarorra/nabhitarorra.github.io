@@ -35,17 +35,23 @@
 
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+### Library Management System | LibraLogix
+[Publication](https://github.com/nabhitarorra/Library-Management)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Designed and developed “LibraLogix,” a comprehensive library management system using Java, focusing on efficient management of book inventory and user transactions. The system is implemented with advanced object-oriented programming techniques to handle real-world library operations such as book checkouts, returns, renewals, and fines. Utilizing a dynamic cataloging system, it enables precise tracking and management of books by title, author, and category, enhancing the user’s ability to quickly locate and manage resources.
+
+The system also integrates user account management, supporting permissions, and transaction histories, which facilitates a personalized and secure user experience. The implementation of a serialized file system for account data storage ensures data persistence across sessions. This project highlights the utility of Java in developing robust applications that require handling complex data structures and providing real-time user feedback and interaction. The library system serves as a model for scalable software architecture, potentially adaptable to larger scale digital library systems or integrated into existing educational institution management software.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Formula 1 Qualifying Dynamics | Impact on Race Outcomes
+[Publication](https://github.com/nabhitarorra/F1-Race-Outcome-Analysis)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+This project utilizes a robust statistical approach to explore the significant impact of qualifying positions on Formula 1 race outcomes, using R and its suite of packages including tidyverse, ggplot2, and broom. The analysis employs sophisticated data wrangling techniques to clean and merge large datasets, facilitating a detailed examination of the correlation between drivers’ starting positions and their finishing ranks in races.
+
+The study leverages multiple regression analysis to quantify how starting near the pole position can predict better race results, adjusting for various race day variables like driver status and incidents. Visual representations such as scatter plots and boxplots provide intuitive insights into data trends, with regression models further confirming the predictive power of qualifying positions.
+
+This data-driven investigation highlights the strategic importance of qualifying sessions in Formula 1, suggesting that teams could gain a competitive edge by focusing on optimizing their qualifying strategies. The findings also suggest potential areas for further research, including the effects of external variables like weather conditions and team strategies, which could enhance understanding of their impact on race dynamics. The project demonstrates a comprehensive application of statistical modeling to decode complex relationships within sports analytics, offering actionable insights for race strategists and enthusiasts.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
