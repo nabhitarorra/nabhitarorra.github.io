@@ -1,6 +1,9 @@
 # Data Scientist
 
-#### Technical Skills: TensorFlow · Keras · PyTorch · Machine Learning · Deep Learning · CNN · AI · Image Processing · ServiceNow · IT Support · C++ · R · Java · Python · R Studio · SQL · MySQL · HTML · GitHub · Excel · MongoDB · PowerBI · C# · Data Structure
+#### Machine Learning, Deep Learning, AI, CNNs</li>
+#### Technologies: TensorFlow, Keras, PyTorch, ServiceNow, R Studio, GitHub, MongoDB, PowerBI</li>
+#### Languages: Python, Java, C++, SQL, HTML, C#</li>
+
 
 ## Education		        		
 - B.S., Computational Data Science | College of Engineering, The Pennsylvania State University	 (_May 2026_)
