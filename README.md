@@ -42,7 +42,7 @@ Designed and developed “LibraLogix,” a comprehensive library management syst
 
 The system also integrates user account management, supporting permissions, and transaction histories, which facilitates a personalized and secure user experience. The implementation of a serialized file system for account data storage ensures data persistence across sessions. This project highlights the utility of Java in developing robust applications that require handling complex data structures and providing real-time user feedback and interaction. The library system serves as a model for scalable software architecture, potentially adaptable to larger scale digital library systems or integrated into existing educational institution management software.
 
-![EEG Band Discovery](/assets:img/f1_clipart.jpg)
+![EEG Band Discovery](/assets:img/pngwing.com.png)
 
 ### Formula 1 Qualifying Dynamics | Impact on Race Outcomes
 [Publication](https://github.com/nabhitarorra/F1-Race-Outcome-Analysis)
@@ -53,7 +53,7 @@ The study leverages multiple regression analysis to quantify how starting near t
 
 This data-driven investigation highlights the strategic importance of qualifying sessions in Formula 1, suggesting that teams could gain a competitive edge by focusing on optimizing their qualifying strategies. The findings also suggest potential areas for further research, including the effects of external variables like weather conditions and team strategies, which could enhance understanding of their impact on race dynamics. The project demonstrates a comprehensive application of statistical modeling to decode complex relationships within sports analytics, offering actionable insights for race strategists and enthusiasts.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Bike Study](/assets:img/library_clipart.png)
 
 ## Certifications
 - 	Harvard University, Technology Entrepreneurship – Lab to Market
