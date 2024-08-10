@@ -42,7 +42,7 @@ Designed and developed “LibraLogix,” a comprehensive library management syst
 
 The system also integrates user account management, supporting permissions, and transaction histories, which facilitates a personalized and secure user experience. The implementation of a serialized file system for account data storage ensures data persistence across sessions. This project highlights the utility of Java in developing robust applications that require handling complex data structures and providing real-time user feedback and interaction. The library system serves as a model for scalable software architecture, potentially adaptable to larger scale digital library systems or integrated into existing educational institution management software.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![EEG Band Discovery](/assets:img/f1_clipart.jpg)
 
 ### Formula 1 Qualifying Dynamics | Impact on Race Outcomes
 [Publication](https://github.com/nabhitarorra/F1-Race-Outcome-Analysis)
