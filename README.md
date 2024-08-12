@@ -1,5 +1,8 @@
 # Data Science Portfolio
+[Email Me](nabhitarorra@gmail.com)
 [Connect with me on LinkedIn](https://www.linkedin.com/in/nabhitarora/)
+
+
 
 ### Skills
 - **Machine Learning**: Deep Learning, AI, CNNs
