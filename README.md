@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Science Portfolio
 
 ### Skills
 #### Machine Learning: Deep Learning, AI, CNNs
