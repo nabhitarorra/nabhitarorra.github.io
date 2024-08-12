@@ -1,4 +1,5 @@
 # Data Science Portfolio
+[Connect with me on LinkedIn](https://www.linkedin.com/in/nabhitarora/)
 
 ### Skills
 #### Machine Learning: Deep Learning, AI, CNNs
@@ -7,7 +8,7 @@
 
 
 ## Education		        		
-- B.S., Computational Data Science | College of Engineering, The Pennsylvania State University	 (_May 2026_)
+B.S., Computational Data Science | College of Engineering, The Pennsylvania State University	 (_May 2026_)
 - International Baccalaureate Diploma Programme | Greenwood High International School	 (_Aug 2022_)
 
 ## Work Experience
