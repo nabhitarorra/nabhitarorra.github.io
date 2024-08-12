@@ -2,14 +2,14 @@
 [Connect with me on LinkedIn](https://www.linkedin.com/in/nabhitarora/)
 
 ### Skills
-#### Machine Learning: Deep Learning, AI, CNNs
-#### Technologies: TensorFlow, Keras, PyTorch, ServiceNow, R Studio, GitHub, MongoDB, PowerBI
-#### Languages: Python, Java, C++, SQL, HTML, C#
+- **Machine Learning**: Deep Learning, AI, CNNs
+- **Technologies**: TensorFlow, Keras, PyTorch, ServiceNow, R Studio, GitHub, MongoDB, PowerBI
+- **Languages**: Python, Java, C++, SQL, HTML, C#
 
 
 ## Education		        		
 B.S., Computational Data Science | College of Engineering, The Pennsylvania State University	 (_May 2026_)
-- International Baccalaureate Diploma Programme | Greenwood High International School	 (_Aug 2022_)
+International Baccalaureate Diploma Programme | Greenwood High International School	 (_Aug 2022_)
 
 ## Work Experience
 **Student Technician @ Behrend Information Technology Services, Erie, PA (_Jan 2023 - May 2024_)**
