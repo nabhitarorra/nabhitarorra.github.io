@@ -9,8 +9,6 @@
 ## Education
 **B.S, Computational Data Science** | College of Engineering, The Pennsylvania State University	 (_May 2026_)
 
-**International Baccalaureate Diploma Programme** | Greenwood High International School	 (_Aug 2022_)
-
 ## Work Experience
 **Student Technician @ Behrend Information Technology Services, Erie, PA (_Jan 2023 - May 2024_)**
 - Contributed to the development of an advanced Inventory Management Application by testing MS Power Apps which streamlined asset tracking, enhanced accuracy, reduced errors, and optimized resource allocation.
