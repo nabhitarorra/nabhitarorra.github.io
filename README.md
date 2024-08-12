@@ -1,5 +1,10 @@
 # Data Science Portfolio
-[Email Me](mailto:nabhitarorra@gmail.com); [Connect with me on LinkedIn](https://www.linkedin.com/in/nabhitarora/)
+[Email Me](mailto:nabhitarorra@gmail.com)
+
+
+*Alternatively, you can use [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=nabhitarorra@gmail.com) or [Outlook Web](https://outlook.office.com/mail/deeplink/compose?to=nabhitarorra@gmail.com) to send me an email.*
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/nabhitarorra/)
 
 ### Skills
 - **Machine Learning**: Deep Learning, AI, CNNs
