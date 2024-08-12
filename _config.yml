@@ -1,11 +1,11 @@
 title: Nabhit Arorra
 logo: /assets:img/circle_headshot.png
 description: Currently a Junior at Penn State University, seeking an internship or a part-time position utilizing programming, and computational skills.
-#show_downloads: true
+show_downloads: true
 theme: jekyll-theme-minimal
-social_links:
-  - title: "GitHub"
-    url: "https://github.com/nabhitarorra"
-  - title: "LinkedIn"
-    url: "https://www.linkedin.com/in/nabhitarora/"
+#social_links:
+ # - title: "GitHub"
+  #  url: "https://github.com/nabhitarorra"
+  #- title: "LinkedIn"
+   # url: "https://www.linkedin.com/in/nabhitarora/"
 
