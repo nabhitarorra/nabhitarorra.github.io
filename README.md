@@ -1,5 +1,5 @@
 # Portfolio
-[Email Me](mailto:nabhitarorra@gmail.com), [Connect with me on LinkedIn](https://www.linkedin.com/in/nabhitarorra/)
+[Email Me](mailto:nabhitarorra@gmail.com) [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=nabhitarorra@gmail.com) [Outlook Web](https://outlook.office.com/mail/deeplink/compose?to=nabhitarorra@gmail.com), [Connect with me on LinkedIn](https://www.linkedin.com/in/nabhitarorra/)
 
 
 *Alternatively, you can use [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=nabhitarorra@gmail.com) or [Outlook Web](https://outlook.office.com/mail/deeplink/compose?to=nabhitarorra@gmail.com) to send me an email.*
@@ -44,8 +44,7 @@ Management · Customer Focused IT Support
   - Developed a blockchain-based application to track each step of the manufacturing process, promoting transparency and ensuring the traceability of sustainable practices within the fashion industry.
 
 - **Elexia (Machine Learning in Telemedicine):**
-  
- [Publication](https://joinlaunchpad.com/#/projects?qId=1717)
+[Publication](https://joinlaunchpad.com/#/projects?qId=1717)
   - Contributed to the development of an AI-driven telemedicine application, improving patient care through machine learning algorithms in TensorFlow and Keras.
   - Assisted in integrating machine learning models for symptom-based doctor allocation, enhancing the efficiency of healthcare delivery.
   - Utilized blockchain technology to securely manage patient data, addressing critical concerns around data
