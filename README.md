@@ -6,10 +6,8 @@
 - **Technologies**: TensorFlow, Keras, PyTorch, ServiceNow, R Studio, GitHub, MongoDB, PowerBI
 - **Languages**: Python, Java, C++, SQL, HTML, C#
 
-
-## Education		        		
+## Education
 -B.S, Computational Data Science | College of Engineering, The Pennsylvania State University	 (_May 2026_)
-
 -International Baccalaureate Diploma Programme | Greenwood High International School	 (_Aug 2022_)
 
 ## Work Experience
