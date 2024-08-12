@@ -4,7 +4,7 @@ Email: [Mail](mailto:nabhitarorra@gmail.com), [Gmail](https://mail.google.com/ma
 Connect: [LinkedIn](https://www.linkedin.com/in/nabhitarorra/)
 
 
-### Skills
+## Skills
 - **Programming Languages**: Python · Java · C++ · C# · R · SQL
 - **Data Science & Machine Learning**: TensorFlow · Keras · PyTorch · Deep Learning · CNN · Artificial Intelligence · Image Processing · MongoDB · MySQL · ggplot2 · tidyverse · broom
 - **Development & IT Tools**: HTML · GitHub · R Studio · ServiceNow · IT Support
