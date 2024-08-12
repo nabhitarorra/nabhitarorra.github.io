@@ -1,5 +1,6 @@
 # Portfolio
 Email: [Mail](mailto:nabhitarorra@gmail.com), [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=nabhitarorra@gmail.com), [Outlook](https://outlook.office.com/mail/deeplink/compose?to=nabhitarorra@gmail.com),
+
 Connect: [LinkedIn](https://www.linkedin.com/in/nabhitarorra/)
 
 
