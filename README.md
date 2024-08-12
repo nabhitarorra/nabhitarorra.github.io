@@ -37,14 +37,13 @@ Management · Customer Focused IT Support
 
 
 **Team Leader, The Junior Academy @ New York Academy of Sciences, New York, NY (_October 2020 - June 2022_)**
-- OrganicStitch (AI-Driven Sustainability):
-  
+- **OrganicStitch (AI-Driven Sustainability):**
  [Publication](https://joinlaunchpad.com/#/projects?qId=1705)
   - Led a project focused on reducing the environmental impact of the fast fashion   industry by developing sustainable practices.
   - Worked on creating an innovative method to grow cotton in controlled lab environments, reducing soil usage by 70%, water usage by 90%, and eliminating pesticide use.
   - Developed a blockchain-based application to track each step of the manufacturing process, promoting transparency and ensuring the traceability of sustainable practices within the fashion industry.
 
-- Elexia (Machine Learning in Telemedicine):
+- **Elexia (Machine Learning in Telemedicine):**
   
  [Publication](https://joinlaunchpad.com/#/projects?qId=1717)
   - Contributed to the development of an AI-driven telemedicine application, improving patient care through machine learning algorithms in TensorFlow and Keras.
