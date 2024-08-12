@@ -1,5 +1,6 @@
 # Data Science Portfolio
-[Email Me](nabhitarorra@gmail.com)
+[Email Me](mailto:nabhitarorra@gmail.com); 
+
 [Connect with me on LinkedIn](https://www.linkedin.com/in/nabhitarora/)
 
 
